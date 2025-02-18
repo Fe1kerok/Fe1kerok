@@ -12,6 +12,7 @@
   </h1>
 </div>
 ---
+
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="40" height="40" title="Python" alt="Python" />&nbsp;
@@ -34,6 +35,7 @@
 </div>
 
 ---
+
 ### :fire: My Stats :
 
 <div id="stat" align="center">
