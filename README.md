@@ -5,7 +5,6 @@
       <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=Fe1kerok&style=flat-square&color=blue" alt=""/>
   <h1>
     Hey
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
