@@ -12,6 +12,7 @@
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :
+
 <div align="center">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="40" height="40" title="Git" alt="Git" />&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="40" height="40" title="HTML" alt="HTML" />&nbsp;
