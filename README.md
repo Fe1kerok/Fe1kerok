@@ -14,8 +14,12 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <div align="center">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="40" height="40" title="Git" alt="Git" />&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="40" height="40" title="JavaScript" alt="JavaScript" />&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="40" height="40" title="HTML" alt="HTML" />&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Dark.svg" width="40" height="40" title="Ubuntu" alt="Ubuntu" />&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Cloudflare-Dark.svg" width="40" height="40" title="Cloudflare" alt="Cloudflare" />&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg" width="40" height="40" title="Redis" alt="Redis" />&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="40" height="40" title="Git" alt="Git" />&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="40" height="40" title="CSS" alt="CSS" />&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="40" height="40" title="TypeScript" alt="TypeScript" />&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" width="40" height="40" title="Discord" alt="Discord" />&nbsp;
@@ -24,14 +28,13 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="40" height="40" title="React" alt="React" />&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="40" height="40" title="TailwindCSS" alt="TailwindCSS" />&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="40" height="40" title="VS Code" alt="VS Code" />&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" width="40" height="40" title="Windows" alt="Windows" />&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="40" height="40" title="Python" alt="Python" />&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="40" height="40" title="Linux" alt="Linux" />&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="40" height="40" title="MySQL" alt="MySQL"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="40" height="40" title="Github" alt="Github" />&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="40" height="40" title="NodeJS" alt="NodeJS" />&nbsp;
-
-
-
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Nginx.svg" width="40" height="40" title="Nginx" alt="Nginx" />&nbsp;
 </div>
 
 ---
