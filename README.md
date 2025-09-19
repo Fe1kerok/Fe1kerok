@@ -25,24 +25,24 @@ I am a passionate developer from Russia <img src="https://cdn-icons-png.flaticon
 
 #### 🌐 **Frontend & Backend**
 <div>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="40" height="40" alt="JavaScript" title="JavaScript"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="40" height="40" alt="TypeScript" title="TypeScript"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="40" height="40" alt="HTML" title="HTML"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="40" height="40" alt="CSS" title="CSS"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="40" height="40" alt="TypeScript" title="TypeScript"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="40" height="40" alt="JavaScript" title="JavaScript"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="40" height="40" alt="Python" title="Python"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="40" height="40" alt="Node.js" title="Node.js"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="40" height="40" alt="React" title="React"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="40" height="40" alt="TailwindCSS" title="TailwindCSS"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="40" height="40" alt="Node.js" title="Node.js"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="40" height="40" alt="Python" title="Python"/>&nbsp;
 </div>
 
 #### 🗄️ **Databases & DevOps**
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="40" height="40" alt="MySQL" title="MySQL"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg" width="40" height="40" alt="Redis" title="Redis"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Nginx.svg" width="40" height="40" alt="Nginx" title="Nginx"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Cloudflare-Dark.svg" width="40" height="40" alt="Cloudflare" title="Cloudflare"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="40" height="40" alt="Git" title="Git"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="40" height="40" alt="GitHub" title="GitHub"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Cloudflare-Dark.svg" width="40" height="40" alt="Cloudflare" title="Cloudflare"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg" width="40" height="40" alt="Redis" title="Redis"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="40" height="40" alt="Git" title="Git"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Nginx.svg" width="40" height="40" alt="Nginx" title="Nginx"/>&nbsp;
 </div>
 
 #### 💻 **Work Environment & Tools**
