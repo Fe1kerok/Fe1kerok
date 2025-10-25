@@ -42,6 +42,7 @@ I am a passionate developer from Russia <img src="https://cdn-icons-png.flaticon
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Cloudflare-Dark.svg" width="40" height="40" alt="Cloudflare" title="Cloudflare"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg" width="40" height="40" alt="Redis" title="Redis"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="40" height="40" alt="Git" title="Git"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="40" height="40" alt="Nginx" title="Docker"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Nginx.svg" width="40" height="40" alt="Nginx" title="Nginx"/>&nbsp;
 </div>
 
