@@ -38,11 +38,13 @@ I am a passionate developer from Russia <img src="https://cdn-icons-png.flaticon
 
 #### 🗄️ **Databases & DevOps**
 <div>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prometheus.svg" width="40" height="40" alt="Prometheus" title="Prometheus"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="40" height="40" alt="Git" title="Git"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg" width="40" height="40" alt="Redis" title="Redis"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg" width="40" height="40" alt="Npm" title="Npm"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Cloudflare-Dark.svg" width="40" height="40" alt="Cloudflare" title="Cloudflare"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RabbitMQ-Dark.svg" width="40" height="40" alt="RabbitMQ" title="RabbitMQ"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Grafana-Dark.svg" width="40" height="40" alt="Grafana" title="Grafana"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="40" height="40" alt="MySQL" title="MySQL"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" width="40" height="40" alt="Bash" title="Bash"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="40" height="40" alt="GitHub" title="GitHub"/>&nbsp;
