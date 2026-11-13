@@ -5,25 +5,24 @@
       <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
     </a>
   </div>
-  <h1>
-    Hey there, I'm Fe1ker!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+  <h1>Fe1ker</h1>
 </div>
 
 ---
 
-### 👨‍💻 About Me
-I am a passionate developer from Russia <img src="https://cdn-icons-png.flaticon.com/512/197/197408.png" width="13"/> interested in web technologies, building bots, and everything in between.
+### About Me
 
-- :seedling: Exploring new technologies and best practices.
-- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-@Fe1ker-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Fe1ker)
+Developer from Russia, focused on web technologies and bot development.
+
+- Exploring new technologies and best practices.
+- Contact: [@Fe1ker](https://t.me/Fe1ker)
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
-#### 🌐 **Frontend & Backend**
+#### Frontend & Backend
+
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="40" height="40" alt="HTML" title="HTML"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="40" height="40" alt="CSS" title="CSS"/>&nbsp;
@@ -36,7 +35,8 @@ I am a passionate developer from Russia <img src="https://cdn-icons-png.flaticon
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width="40" height="40" alt="ExpressJS" title="ExpressJS"/>&nbsp;
 </div>
 
-#### 🗄️ **Databases & DevOps**
+#### Databases & DevOps
+
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prometheus.svg" width="40" height="40" alt="Prometheus" title="Prometheus"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="40" height="40" alt="Git" title="Git"/>&nbsp;
@@ -53,7 +53,8 @@ I am a passionate developer from Russia <img src="https://cdn-icons-png.flaticon
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Nginx.svg" width="40" height="40" alt="Nginx" title="Nginx"/>&nbsp;
 </div>
 
-#### 💻 **Work Environment & Tools**
+#### Work Environment & Tools
+
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="40" height="40" alt="Linux" title="Linux"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Dark.svg" width="40" height="40" alt="Ubuntu" title="Ubuntu"/>&nbsp;
@@ -62,7 +63,8 @@ I am a passionate developer from Russia <img src="https://cdn-icons-png.flaticon
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Obsidian-Dark.svg" width="40" height="40" alt="Obsidian" title="Obsidian"/>&nbsp;
 </div>
 
-#### 🤖 **Discord Development**
+#### Discord Development
+
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" width="40" height="40" alt="Discord" title="Discord"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DiscordBots.svg" width="40" height="40" alt="Discord Bots" title="Discord Bots"/>&nbsp;
@@ -70,7 +72,7 @@ I am a passionate developer from Russia <img src="https://cdn-icons-png.flaticon
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fe1kerok&theme=github_dark" alt="Profile Details"/>
@@ -78,7 +80,7 @@ I am a passionate developer from Russia <img src="https://cdn-icons-png.flaticon
 
 ---
 
-### 🐍 Contribution Graph
+### Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fe1kerok/fe1kerok/output/github-contribution-grid-snake-dark.svg">
